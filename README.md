@@ -20,6 +20,7 @@ A continuación se detallan los componentes electrónicos utilizados en la estac
 | Componente | Función Principal | Pin / Conexión |
 | :--- | :--- | :--- |
 | **Pantalla LCD 16x2 + Módulo I2C** | Visualización de datos meteorológicos y alertas | Pines SDA / SCL (I2C) |
+| **Pantalla LCD 16x2 + Módulo I2C** | Visualización de datos meteorológicos y alertas | Pines SDA / SCL (I2C) |
 | **Sensor DHT11** | Lectura de temperatura ambiental y humedad relativa | Pin Digital |
 | **Sensor MQ-2** | Detección de humo, inflamables y calidad del aire | Pin Analógico |
 | **LED Calor** | Indicador visual de alerta por alta temperatura | Pin Digital 13 *(con res. 220Ω)* |
