@@ -41,8 +41,3 @@ Además del circuito electrónico y el desarrollo del software en Arduino (`.ino
 
 ---
 
-## 🚀 Instalación y Uso
-
-1. Clonar el repositorio:
-   ```bash
-   git clone [https://github.com/martinabarrionuevo/estacion_Metereologica_azul.git](https://github.com/martinabarrionuevo/estacion_Metereologica_azul.git)
