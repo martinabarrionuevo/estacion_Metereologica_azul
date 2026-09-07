@@ -1,15 +1,26 @@
 # 🌤️ Estación Meteorológica Azul
 
-> **Proyecto Integrador de la Especialidad**  
+
+
+> **Proyecto Integrador de la Especialidad**
 > 🎓 **Escuela ProA** | 5to Año — 2026
+> 👩‍💻 **Integrantes:** Martina Barrionuevo · Lucila Zalazar · Sofia Vergara · Lola Marattin
 
 ---
 
 ## 📌 Presentación del Proyecto
 
+
 ¡Bienvenidos/as a nuestro repositorio! Somos un grupo de estudiantes de 5to año de la **Escuela ProA**. Como parte del programa de nuestra especialidad técnica, estamos desarrollando una **Estación Meteorológica Automatizada** basada en microcontroladores Arduino.
 
 Este proyecto integra conocimientos de programación, electrónica y diseño físico, permitiendo medir variables ambientales clave en tiempo real, procesar alertas térmicas y de gases, y presentar la información a través de una interfaz visual clara.
+
+### 👩‍💻 Integrantes
+
+* **Martina Barrionuevo**
+* **Lucila Zalazar**
+* **Sofia Vergara**
+* **Lola Marattin**
 
 ---
 
