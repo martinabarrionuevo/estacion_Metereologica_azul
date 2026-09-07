@@ -15,12 +15,6 @@
 
 Este proyecto integra conocimientos de programación, electrónica y diseño físico, permitiendo medir variables ambientales clave en tiempo real, procesar alertas térmicas y de gases, y presentar la información a través de una interfaz visual clara.
 
-### 👩‍💻 Integrantes
-
-* **Martina Barrionuevo**
-* **Lucila Zalazar**
-* **Sofia Vergara**
-* **Lola Marattin**
 
 ---
 
